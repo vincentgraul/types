@@ -1,0 +1,18 @@
+{
+  "name": "@vincentgraul/types",
+  "version": "1.0.0",
+  "license": "GNU GPLV3",
+  "repository": "https://github.com/vincentgraul/types.git",
+  "author": {
+    "name": "Vincent Graul",
+    "email": "vincent.graul@outlook.com",
+    "url": "http://vincentgraul.com"
+  },
+  "maintainers": [
+    {
+      "name": "Vincent Graul",
+      "email": "vincent.graul@outlook.com",
+      "url": "http://vincentgraul.com"
+    }
+  ]
+}
