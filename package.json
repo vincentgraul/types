@@ -1,8 +1,19 @@
 {
   "name": "@vincentgraul/types",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "license": "GNU GPLV3",
   "repository": "https://github.com/vincentgraul/types.git",
+  "exports": {
+    "./object-literal": {
+      "import": "./src/ObjectLiteral.ts"
+    },
+    "./primitive": {
+      "import": "./src/Primitive.ts"
+    },
+    "./svg": {
+      "import": "./src/Svg.ts"
+    }
+  },
   "author": {
     "name": "Vincent Graul",
     "email": "vincent.graul@outlook.com",
